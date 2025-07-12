@@ -1,0 +1,68 @@
+C:\Users\USUARIO\Desktop\Fase 1\fase1\fase1\bin\Debug\fase1.exe.config
+C:\Users\USUARIO\Desktop\Fase 1\fase1\fase1\bin\Debug\fase1.exe
+C:\Users\USUARIO\Desktop\Fase 1\fase1\fase1\bin\Debug\fase1.pdb
+C:\Users\USUARIO\Desktop\Fase 1\fase1\fase1\obj\Debug\fase1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Fase 1\fase1\fase1\obj\Debug\fase1.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Fase 1\fase1\fase1\obj\Debug\fase1.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Fase 1\fase1\fase1\obj\Debug\fase1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Fase 1\fase1\fase1\obj\Debug\fase1.exe
+C:\Users\USUARIO\Desktop\Fase 1\fase1\fase1\obj\Debug\fase1.pdb
+C:\Users\USUARIO\Desktop\Fase 1\fase1\fase1\obj\Debug\fase1.Form1.resources
+C:\Users\USUARIO\Desktop\Fase 1\fase1\fase1\obj\Debug\fase1.Form2.resources
+C:\Users\vladimir aguila\OneDrive\Escritorio\Fase 1\Fase 1\fase1\fase1\bin\Debug\fase1.exe.config
+C:\Users\vladimir aguila\OneDrive\Escritorio\Fase 1\Fase 1\fase1\fase1\bin\Debug\fase1.exe
+C:\Users\vladimir aguila\OneDrive\Escritorio\Fase 1\Fase 1\fase1\fase1\bin\Debug\fase1.pdb
+C:\Users\vladimir aguila\OneDrive\Escritorio\Fase 1\Fase 1\fase1\fase1\obj\Debug\fase1.csproj.AssemblyReference.cache
+C:\Users\vladimir aguila\OneDrive\Escritorio\Fase 1\Fase 1\fase1\fase1\obj\Debug\fase1.Form1.resources
+C:\Users\vladimir aguila\OneDrive\Escritorio\Fase 1\Fase 1\fase1\fase1\obj\Debug\fase1.Form2.resources
+C:\Users\vladimir aguila\OneDrive\Escritorio\Fase 1\Fase 1\fase1\fase1\obj\Debug\fase1.Properties.Resources.resources
+C:\Users\vladimir aguila\OneDrive\Escritorio\Fase 1\Fase 1\fase1\fase1\obj\Debug\fase1.csproj.GenerateResource.cache
+C:\Users\vladimir aguila\OneDrive\Escritorio\Fase 1\Fase 1\fase1\fase1\obj\Debug\fase1.csproj.CoreCompileInputs.cache
+C:\Users\vladimir aguila\OneDrive\Escritorio\Fase 1\Fase 1\fase1\fase1\obj\Debug\fase1.exe
+C:\Users\vladimir aguila\OneDrive\Escritorio\Fase 1\Fase 1\fase1\fase1\obj\Debug\fase1.pdb
+C:\Users\vladimir aguila\OneDrive\Escritorio\Fase 1\Fase 1\fase1\fase1\obj\Debug\fase1.Form3.resources
+C:\Users\vladimir aguila\OneDrive\Escritorio\Fase 1\Fase 1\fase1\fase1\obj\Debug\fase1.Form4.resources
+C:\Users\USUARIO\Desktop\este si\fase1\bin\Debug\fase1.exe.config
+C:\Users\USUARIO\Desktop\este si\fase1\bin\Debug\fase1.exe
+C:\Users\USUARIO\Desktop\este si\fase1\bin\Debug\fase1.pdb
+C:\Users\USUARIO\Desktop\este si\fase1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\este si\fase1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\USUARIO\Desktop\este si\fase1\obj\Debug\fase1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\este si\fase1\obj\Debug\fase1.Form1.resources
+C:\Users\USUARIO\Desktop\este si\fase1\obj\Debug\fase1.Form2.resources
+C:\Users\USUARIO\Desktop\este si\fase1\obj\Debug\fase1.Form3.resources
+C:\Users\USUARIO\Desktop\este si\fase1\obj\Debug\fase1.Form4.resources
+C:\Users\USUARIO\Desktop\este si\fase1\obj\Debug\fase1.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\este si\fase1\obj\Debug\fase1.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\este si\fase1\obj\Debug\fase1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\este si\fase1\obj\Debug\fase1.csproj.Up2Date
+C:\Users\USUARIO\Desktop\este si\fase1\obj\Debug\fase1.exe
+C:\Users\USUARIO\Desktop\este si\fase1\obj\Debug\fase1.pdb
+C:\Users\USUARIO\Desktop\este si\fase1\bin\Debug\AForge.dll
+C:\Users\USUARIO\Desktop\este si\fase1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\USUARIO\Desktop\este si\fase1\bin\Debug\AForge.Video.dll
+C:\Users\USUARIO\Desktop\este si\fase1\bin\Debug\AForge.xml
+C:\Users\USUARIO\Desktop\este si\fase1\bin\Debug\AForge.Video.xml
+C:\Users\USUARIO\Desktop\este si\fase1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\bin\Debug\fase1.exe.config
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\bin\Debug\fase1.exe
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\bin\Debug\fase1.pdb
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\bin\Debug\AForge.dll
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\bin\Debug\AForge.Video.dll
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\bin\Debug\AForge.xml
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\bin\Debug\AForge.Video.xml
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\obj\Debug\fase1.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\obj\Debug\fase1.Form1.resources
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\obj\Debug\fase1.Form2.resources
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\obj\Debug\fase1.Form3.resources
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\obj\Debug\fase1.Form4.resources
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\obj\Debug\fase1.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\obj\Debug\fase1.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\obj\Debug\fase1.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\obj\Debug\fase1.csproj.Up2Date
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\obj\Debug\fase1.exe
+C:\Users\USUARIO\Desktop\Proyecto final database\fase1\obj\Debug\fase1.pdb
